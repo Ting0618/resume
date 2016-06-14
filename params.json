@@ -1,0 +1,6 @@
+{
+  "name": "WELCOME",
+  "tagline": "这是我的简历",
+  "body": "\r\n## 个人信息\r\n姓名：王婷\r\n\r\n性别：女\r\n\r\n出生年月：1994-07-04\r\n\r\n籍贯：四川省遂宁市\r\n\r\n学校专业：长春大学软件工程\r\n\r\n外语水平：英语CET4--485，日语懂一些简单日常用语\r\n\r\nEmail：wting0618@163.com\r\n\r\ngithub:http://github.com/Ting0618\r\n\r\n期望职位：Java开发\r\n## 自我简介\r\n计算机基础知识扎实，热爱编程，有过独立和团队开发经验。对java,对Spring，Struts2，Hibernate，SpringMVC，Mybatis等框架有开发经验。能独立开发一个web项目并对开源项目很感兴趣。\r\n拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。\r\n## IT技能\r\n对计算机网络、数据结构、操作系统等基础知识掌握牢固，熟悉Linux的基本用法\r\n\r\n熟练掌握Java语言和虚拟机相关知识，熟悉Spring、Struts2、Hibernate、SpringMVC、Mybatis等框架的使用\r\n\r\n熟练掌握JavaScript、CSS和各种框架来搭建一个Web应用\r\n## 项目经历\r\n###1、吉软教务系统\r\n使用SpringMVC+Mybatis框架，MySQL数据库开发，实现老师和学生的互动。我负责题库管理模块，实现老师增加题目和试卷，学生可以在上面做题的功能。\r\n###2、客户信息管理系统\r\n做了两种版本的，一种采用Spring、Struts2、Hibernate框架，一种采用SpringMVC框架，都使用的MySQL数据库。完成对用户信息的增删改查、上传文件、上传下载Excel文件、模糊查询等功能。\r\n###3、银行管理系统\r\n模拟银行的各种操作，使用Servlet和JSP进行的开发。实现了转账、查询信息、查看流水信息等功能。\r\n###4、记忆数字游戏\r\n使用C++编写，可选择数字或字母模式i，控制台显示数字或字母3秒钟后消失，要求使用者输入刚才显示的数字或字母，输入正确即可进入下一关，下一关增加了数字或字母的位数，错误则计算总分退出。\r\n## 其他经历\r\n第一届互联网+大赛      省铜奖     项目负责人\r\n\r\n软件协会工作期间，负责指导会员java的学习。",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
