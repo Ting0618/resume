@@ -12,7 +12,7 @@
 
 学校专业：长春大学软件工程
 
-外语水平：英语CET4，日语懂一些简单日常用语
+外语水平：英语CET4，日语：简单日常用语
 
 Email：wting0618@163.com
 
@@ -20,7 +20,7 @@ github:http://github.com/Ting0618
 
 期望职位：Java开发
 ## 自我简介
-计算机基础知识扎实，热爱编程，有过独立和团队开发经验。对java,对Spring，Struts2，Hibernate，SpringMVC，Mybatis等框架有开发经验。能独立开发一个web项目并对开源项目很感兴趣。
+　　计算机基础知识扎实，热爱编程，有过独立和团队开发经验。对java,对Spring，Struts2，Hibernate，SpringMVC，Mybatis等框架有开发经验。能独立开发一个web项目并对开源项目很感兴趣。
 拥有较强的学习能力和团队合作能力，熟悉项目开发流程和团队协同工作。
 ## IT技能
 对计算机网络、数据结构、操作系统等基础知识掌握牢固，熟悉Linux的基本用法
