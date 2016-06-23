@@ -32,15 +32,15 @@ github:http://github.com/Ting0618
 ###1、吉软教务系统
 　　使用SpringMVC+Mybatis框架，MySQL数据库开发，实现老师和学生的互动。我负责题库管理模块，实现老师增加题目和试卷，学生可以在上面做题的功能。
 ###2、客户信息管理系统
-项目地址：https://github.com/Ting0618/Clients
+　　项目地址：https://github.com/Ting0618/Clients
 
 　　做了两种版本的，一种采用Spring、Struts2、Hibernate框架，一种采用SpringMVC框架，都使用的MySQL数据库。完成对用户信息的增删改查、上传文件、上传下载Excel文件、模糊查询等功能。
 ###3、银行管理系统
-项目地址：https://github.com/Ting0618/Bank_servlet
+　　项目地址：https://github.com/Ting0618/Bank_servlet
 
 　　模拟银行的各种操作，使用Servlet和JSP进行的开发。实现了转账、查询信息、查看流水信息等功能。
 ###4、记忆数字游戏
-项目地址：https://github.com/Ting0618/MyGame
+　　项目地址：https://github.com/Ting0618/MyGame
 
 　　使用C++编写，可选择数字或字母模式i，控制台显示数字或字母3秒钟后消失，要求使用者输入刚才显示的数字或字母，输入正确即可进入下一关，下一关增加了数字或字母的位数，错误则计算总分退出。
 ## 其他经历
