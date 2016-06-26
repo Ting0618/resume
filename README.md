@@ -32,7 +32,7 @@ github:http://github.com/Ting0618
 ###Spring-mvc-mini
 　　项目地址：https://github.com/Ting0618/spring-mvc-mini
 　　
-　　一个完整的，轻量、简单的Java项目,项目主要实现了以下技术：自动发送IMAP email、自动 pull pushGIT、用户密码加密、解析XML、自动checkout　checkin SVN、spring scheduler 实现定时任务。
+　　一个完整的，轻量、简单的Java项目,项目主要实现了以下技术：自动发送IMAP email、自动 pull pushGIT、用户密码加密、解析XML、自动checkout　checkin SVN、spring scheduler 实现定时任务
 ###吉软教务系统
 　　使用SpringMVC+Mybatis框架，MySQL数据库开发，实现老师和学生的互动。我负责题库管理模块，实现老师增加题目和试卷，学生可以在上面做题的功能。
 ###客户信息管理系统
